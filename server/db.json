@@ -1,0 +1,10 @@
+{
+    "config": [
+        { "icon": "fa fa-home", "url": "home" },
+        { "icon": "fa fa-list", "url": "catalog" },
+        { "icon": "fa fa-envelope", "url": "contact" },
+        { "icon": "fa fa-linkedin", "url": "home" },
+        { "icon": "fa fa-instagram", "url": "catalog" },
+        { "icon": "fa fa-youtube", "url": "contact" }
+    ]
+}
